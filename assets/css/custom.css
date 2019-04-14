@@ -1,0 +1,130 @@
+*{
+	font-family: 'Merriweather', 'Times New Roman', serif;
+}
+
+label,select,option{
+	color: #6c757d;
+}
+
+.table-nonfluid {
+   width: auto !important;
+}
+
+a{
+	color:#D32F2F;
+}
+
+a:hover{
+	text-decoration: none;
+	color:#F44336;
+	opacity: 0.93;
+}
+
+.navbar .form-control{
+	border:none;
+	/*border-bottom: 1px solid #ccc;*/
+}
+
+.control-label{
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+.form-control:focus{
+	box-shadow: none;
+	border-color:#6c757d;
+}
+
+.form-control{
+	border: none;
+	border-bottom: solid red 1px;
+	border-radius: 0;
+}
+
+
+.btn{
+	border-radius: 0;
+	/*border:none;*/
+}
+
+.btn:focus{
+	box-shadow: none;
+}
+
+.navbar{
+	margin-bottom: 8px;
+}
+
+
+.card {
+	border-radius: 0;
+	margin-bottom: 16px;
+}
+
+.main-list{
+	border:none;
+	border-bottom: 1px solid #eee;
+}
+
+
+.sidebar-left{
+	border: none;
+	border-right:1px solid #eee;
+}
+
+.sidebar-right{
+	border: none;
+	border-left:1px solid #eee;
+}
+
+.sidebar a{
+	color:#F44336;
+	opacity: 0.93;
+}
+
+.sidebar .list-group-item{
+	/*text-align: center;*/
+	font-family: 'Merriweather Sans', sans-serif;
+	border: none;
+}
+
+.sidebar .list-group-item:hover{
+	background-color: #f6f6f6;
+}
+
+.card-header{
+	background-color: transparent;
+	border: none;
+	font-family: 'Merriweather Sans', sans-serif;
+	padding-bottom: 0;
+}
+
+.card-header a{
+	color:#D32F2F;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+.card-header a:hover{
+	color:#F44336;
+	opacity: 0.93;
+}
+
+.list-group .list-group-item{
+	border-radius: 0;
+}
+
+.card-list li{
+	border: none;
+}
+
+.card-meta{
+
+}
+
+.card-meta a{
+	color: #F44336;
+	opacity: 0.93;
+}
+.profile{
+	color:#D32F2F;
+}
+
